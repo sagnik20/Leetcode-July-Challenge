@@ -11,7 +11,8 @@
 Started from Day 5.
 
 Day 5: [Reshape the Matrix](https://github.com/sagnik20/Leetcode-July-Challenge/blob/main/5.java) \
-Day 6: [Reduce Array Size to The Half](https://github.com/sagnik20/Leetcode-July-Challenge/blob/main/6.java)
+Day 6: [Reduce Array Size to The Half](https://github.com/sagnik20/Leetcode-July-Challenge/blob/main/6.java)\
+Day 7: [Kth Smallest Element in a Sorted Matrix](https://github.com/sagnik20/Leetcode-July-Challenge/blob/main/7.java)
 
 
 ### :heart: Found this project useful?
